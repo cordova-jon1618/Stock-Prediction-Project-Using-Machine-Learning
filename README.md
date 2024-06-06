@@ -1,6 +1,15 @@
 # Stock Prediction Project Using Machine Learning
 ### Can Machine Learning assist with Predicting Stock Market prices?
-This project for COMP 542 uses the following Machine Learning algorithms:
+
+# Meet the Team:
+#
+
+## Jonathan Cordova [@cordova-jon1618] - https://github.com/cordova-jon1618
+## Phani Challabotla - Assisted with this project
+
+#
+
+### This project for COMP 542 uses the following Machine Learning algorithms:
 
 •	Regression Trees
 
@@ -10,13 +19,6 @@ This project for COMP 542 uses the following Machine Learning algorithms:
 
 •	Artificial Neural Network (Recurrent Neural Network)
 
-# Meet the Team:
-#
-
-## Jonathan Cordova [@cordova-jon1618] - https://github.com/cordova-jon1618
-## Phani Challabotla - Assisted with this project
-
-#
 
 # Introduction:
 The problem we posted is: “Can Machine Learning assist with Predicting Stock Market prices?”. Our goal is to build a prediction Machine Learning model to predict stock closing prices using supervised learning. The problem of predicting how the stock market that often benchmarks the U.S. economy is an essential and significant question posed by many individuals, investment firms, and government institutions. As information regarding how the markets will react affects retirement funds, corporations, banks, and other entities. Billions of dollars are paid out by large investment firms to hire the best mathematicians, data scientists, and machine learning engineers, to attempt to predict and make the best financial decisions for people across the globe. Hence, our project will attempt to answer the question, “Can Machine Learning assist with Predicting Stock Market prices?”
