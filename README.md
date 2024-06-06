@@ -1,5 +1,14 @@
 # Stock Prediction Project Using Machine Learning
-Can Machine Learning assist with Predicting Stock Market prices?
+### Can Machine Learning assist with Predicting Stock Market prices?
+This project for COMP 542 uses the following Machine Learning algorithms:
+
+•	Regression Trees
+
+•	Extra Regression Trees
+
+•	Random Forest
+
+•	Artificial Neural Network (Recurrent Neural Network)
 
 # Meet the Team:
 #
