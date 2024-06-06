@@ -1,6 +1,8 @@
 # Stock Prediction Project Using Machine Learning
 ### Can Machine Learning assist with Predicting Stock Market prices?
 
+![image](https://github.com/cordova-jon1618/stock-prediction-project-using-machine-learning/assets/29684905/85463855-0b12-41bb-b93d-053ee2be9667)
+
 # Meet the Team:
 #
 
