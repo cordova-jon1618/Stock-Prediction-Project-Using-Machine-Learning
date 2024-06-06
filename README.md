@@ -6,8 +6,7 @@
 # Meet the Team:
 #
 
-## Jonathan Cordova [@cordova-jon1618] - https://github.com/cordova-jon1618
-## Phani Challabotla - Assisted with this project
+## Jonathan Cordova [@cordova-jon1618] - https://github.com/cordova-jon1618 and Phani Challabotla
 
 #
 
